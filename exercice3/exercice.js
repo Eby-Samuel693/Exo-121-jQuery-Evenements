@@ -1,3 +1,3 @@
-$("selector").event(function(){
+$("span").click(function(){
     $(this).hide();
 });
